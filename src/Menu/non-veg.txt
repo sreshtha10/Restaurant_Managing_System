@@ -1,0 +1,36 @@
+**SOUPS**
+chicken soup               80
+chicken noodles soup       90
+hot & sour chicken soup    100
+mutton manchow soup        100
+**STARTERS**
+chicken chilly             150
+chicken manchurian dry     130
+chicken crispy             140
+chicken lollypop(6 pcs.)   130
+**NOODLES AND RICE**
+chicken fried ice          150
+chicken hakka noodles      150
+egg fried rice             130
+chicken schezwan rice      170
+mutton schezwan fried rice 180
+**KABAB**
+chicken tikka              180
+chicken angara             180
+chicken pahadi kabab       180
+fish tikka                 180
+fish ajwara                180
+**MAIN COURSE (full/half)**
+butter chicken             350/180
+chicken do pyaza           330/175
+chicken curry              330/175
+mughlai chicken            350/180
+handi chicken              350/180
+chicken kali mirch         330/175
+chicken afgani             350/180
+**BREADS**
+rumali roti                35
+naan                       30
+butter naam                40
+tawa roti                  20
+garlic naan                45
