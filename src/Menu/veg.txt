@@ -1,0 +1,32 @@
+**SOUPS**
+tomato soup             125
+sweet corn soup         145
+**VEGGIE STARTERS**
+paneer tikka            235
+tomato roya chaap       225
+seekh kabab             195
+cutlets                 195
+allo fry                165
+**ALLOO SPECIAL**
+jeera alloo             175
+dum alloo               175
+alloo mutter masala     175
+**SEASONAL VEG**
+bhindi do pyaza         195
+mix veg                 195
+**DAL**
+dal fry                 150
+dal makhani             175
+dal tadka               160
+**PANEER SPECIAL**
+shahi paneer            245
+kadai paneer            245
+paneer butter masala    265
+malai kofta             225
+palak paneer            225
+tawa paneer             225
+paneer handi            265
+**RICE**
+pulao                   185
+jeera rice              145
+steam rice              125
