@@ -9,8 +9,8 @@ public class Order {
 		try {
 			System.out.println("Please enter the number of the dish you want to order.");
 			Scanner sc = new Scanner(System.in);
-			FileInputStream veg = new FileInputStream("C:\\Users\\Sreshtha\\eclipse-workspace\\Restaurants Billing System\\src\\Menu\\veg.txt");
-			FileInputStream nonveg = new FileInputStream("C:\\Users\\Sreshtha\\eclipse-workspace\\Restaurants Billing System\\src\\Menu\\non-veg.txt");
+			FileInputStream veg = new FileInputStream("C:\\eclipse-workspace\\Restaurants Billing System\\src\\Menu\\veg.txt");
+			FileInputStream nonveg = new FileInputStream("C:\\eclipse-workspace\\Restaurants Billing System\\src\\Menu\\non-veg.txt");
 			InputStreamReader v = new InputStreamReader(veg);
 			InputStreamReader nv = new InputStreamReader(nonveg);
 			System.out.println("What do you want to order? Veg/NonVeg");
