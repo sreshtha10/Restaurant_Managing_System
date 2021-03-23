@@ -1,2 +1,2 @@
 # Restaurant_Managing_System
-A restaurant managing system/ application created using java
+A command line restaurant managing system/ application created using java
